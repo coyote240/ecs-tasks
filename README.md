@@ -2,7 +2,7 @@
 
 ## Usage:
 
-### List availabel tasks
+### List available tasks
 
 ```
 fab --list
@@ -11,7 +11,7 @@ fab --list
 ### List running containers
 
 ```
-fab -H hostname1,hostname2 list_packages
+fab -H hostname1,hostname2 list_containers
 ```
 
 ### List installed packages on a container
