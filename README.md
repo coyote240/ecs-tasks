@@ -25,3 +25,8 @@ fab -H hostname1,hostname2 list_packages:<container id>
 ```
 fab -H hostname1,hostname2 query
 ```
+
+## TODO
+
+* rename `query` task to something more reasonable
+* add output path parameter to `query`
